@@ -1,55 +1,56 @@
- [
+[
     {
-      "company": "Tata Consultancy Services India",
-      "role": "Research Internships - Intern",
-      "location": "India/Remote",
+      "company": "Out Thinking Pvt Ltd",
+      "role": "IOS Developer Internship",
+      "location": "Bangalore",
       "batch": "2025 2026",
       "apply_link": "https://www.tcs.com/contact-us/whats-on-your-mind/careers/internship?referralCode=blueberg"
     },
     {
-      "company": "IBM",
+      "company": "Nutrabay",
       "role": "Delivery Consultant Intern",
-      "batch": "2025 2026",
-      "apply_link": "https://login.ibm.com/authsvc/mtfim/sps/authsvc?PolicyId=urn:ibm:security:authentication:asf:basicldapuser&Target=https%3A%2F%2Flogin.ibm.com%2Fsaml%2Fsps%2Fauth?referralCode=blueberg"
-    },
-    {
-      "company": "Heart It Out",
-      "role": "Data Analyst Internship",
-      "batch": "20252026",
-      "apply_link": "https://heartitout.in/careers/data-analyst.html?referralCode=blueberg"
-    },
-    {
-      "company": "MICROSOFT",
-      "role": "Explore Program Internship",
-      "batch": "2027",
-      "apply_link": "https://cuvette.tech/app/public/internship/678f7b2cd5d0c1ebf89dea4b?referralCode=blueberg"
-    },
-    {
-      "company": "PayU India",
-      "role": "Data Science Internship",
       "batch": "2025",
+      "apply_link": "https://nutrabay.keka.com/careers/jobdetails/75994?referralCode=blueberg"
+    },
+    {
+      "company": "WhatBytes",
+      "role": "UI/UX Designer Intern",
+      "batch": "2025 2026",
+      "apply_link": "https://cuvette.tech/app/public/internship/67a74d1e62c408ceab50976b?referralCode=blueberg"
+    },
+    {
+      "company": "FEEDSCO GLOBAL",
+      "role": "Wordpress Developer Intern",
+      "batch": "2026 2027",
+      "apply_link": "https://cuvette.tech/app/public/internship/67a4aeeef302f39a526e3fdf?referralCode=blueberg"
+    },
+    {
+      "company": "BIGTALK",
+      "role": "SDE Intern",
+      "batch": "2025 2026",
       "location": "Bangalore, Online/remote",
-      "apply_link": "https://jobs.eu.lever.co/payu/1d09f4d0-066d-4148-b1c3-30f83d3be28c?referralCode=blueberg"
+      "apply_link": "https://cuvette.tech/app/public/internship/67a31490476694165216bdce?referralCode=blueberg"
     },
     {
-      "company": "Oracle India",
-      "role": "Student/Intern",
+      "company": "Bridgeit",
+      "role": "QA Engineer Intern",
       "batch": "2025",
-      "location": "Bangalore",
-      "apply_link": "https://heartitout.in/careers/data-analyst.html?referralCode=blueberg"
+      "location": "Online",
+      "apply_link": "https://cuvette.tech/app/public/internship/67a42df07734f9c03292bac0?referralCode=blueberg"
     },
     {
-      "company": "Tata CLiQ",
-      "role": "Content-Internship",
-      "batch": "2025",
-      "location": "Mumbai",
-      "apply_link": "https://cliqonnect.darwinbox.in/ms/candidate/candidate/login?redirect=%2Fms%2Fcandidate%2Fcareers%2Fa67add8d4e4b66___apply%3D1?referralCode=blueberg"
-    },
-    {
-      "company": "Tower Research Capital India",
-      "role": "Machine Learning Intern",
+      "company": "Stealth mode fintech",
+      "role": "Technical Content Writer Intern",
       "batch": "2025 2026",
-      "location": "Gurgaon",
-      "apply_link": "https://tower-research.com/open-positions/?gh_jid=6114125?referralCode=blueberg"
+      "location": "Remote",
+      "apply_link": "https://cuvette.tech/app/public/internship/67a0e0d17d672c06a006e85d?referralCode=blueberg"
+    },
+    {
+      "company": "Makerble",
+      "role": "Technical Operations Intern",
+      "batch": "2025 2026",
+      "location": "Remote",
+      "apply_link": "https://cuvette.tech/app/public/internship/67a0b9efe5d644f77b26630c?referralCode=blueberg"
     }
+ 
   ]
