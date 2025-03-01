@@ -3,8 +3,8 @@ import { Metadata } from "next";
 import Image from "next/image";
 
 export const metadata: Metadata = {
-  title: "Blog Page - Solid SaaS Boilerplate",
-  description: "This is Blog page for Solid Pro",
+  title: "Projects",
+  description: "Our Recent Projects",
 };
 
 interface Blog {
